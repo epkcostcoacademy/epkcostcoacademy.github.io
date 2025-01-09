@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "JW44854MRL.com.epktraining.costcoacademy"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "JW44854MRL.com.epktraining.costcoacademy"
+    ]
+  }
+}
