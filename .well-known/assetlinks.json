@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.epktraining.costcoacademy",
+    "sha256_cert_fingerprints":
+    ["A4:0D:68:42:B5:3E:DC:4F:96:07:F6:59:C7:39:03:8E:E2:CB:86:B4:FA:3F:92:6C:FB:97:2F:5A:18:23:D1:27"]
+  }
+}]
